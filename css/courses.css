@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #02162b;
+}
+header {
+    background-color: #00283a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+.course {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.course h2 {
+    margin-top: 0;
+}
+.course p {
+    margin-bottom: 10px;
+}
+.course a {
+    display: inline-block;
+    text-decoration: none;
+    color: #333;
+    background-color: #f4f4f4;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+.course a:hover {
+    background-color: #ddd;
+}
